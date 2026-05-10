@@ -1,0 +1,15 @@
+.nav-link{
+    margin-left:40px;
+
+}
+
+.footer-links a{
+    text-decoration: none;
+    color: #666666;
+    display: inline-block;
+   margin-bottom: 11px;
+}
+
+.footer a{
+    text-decoration:none;
+}
