@@ -7,10 +7,10 @@ import Footer from '../Footer'
 const AboutPage = () => {
   return (
     <>
-    <Navbar/>
+    
       <Hero/>
       <Team/>
-      <Footer/>
+      
     </>
   )
 }
