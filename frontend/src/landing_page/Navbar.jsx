@@ -30,34 +30,34 @@ const Navbar = () => {
           <div className="collapse navbar-collapse" id="navbarSupportedContent">
             
             <form className="d-flex" role="search">
-              <ul className="navbar-nav mb-lg-0">
+              <ul className="navbar-nav mb-lg-0 " >
              
                 <li className="nav-item">
-                  <Link className="nav-link active" to="/signup">
+                  <Link className="nav-link " to="/signup">
                     Signup
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link active" to="/about">
+                  <Link className="nav-link " to="/about">
                     About
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link active" to="/products">
+                  <Link className="nav-link " to="/products">
                     Products
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link active" to="/pricing">
+                  <Link className="nav-link " to="/pricing">
                     Pricing
                   </Link>
                 </li>
 
                 <li className="nav-item">
-                  <Link className="nav-link active" to="/support">
+                  <Link className="nav-link " to="/support">
                     Support
                   </Link>
                 </li>
